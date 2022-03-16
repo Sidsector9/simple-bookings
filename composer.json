@@ -1,0 +1,17 @@
+{
+    "name": "siddharththevaril/public",
+    "autoload": {
+        "psr-4": {
+            "Siddharththevaril\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Siddharth Thevaril",
+            "email": "siddharth.thevaril@gmail.com"
+        }
+    ],
+    "require": {
+        "judev/php-intervaltree": "^2.0"
+    }
+}
