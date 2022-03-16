@@ -114,3 +114,13 @@ $final_blocks = $tree->search( new NumericRangeExclusive( 1647424800, 1647435600
 	</tbody>
 </table>
 
+<style>
+	table, th, td {
+		border: 1px solid black;
+		border-collapse: collapse;
+	}
+
+	th, td {
+		padding: 15 8px;
+	}
+</style>
